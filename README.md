@@ -15,3 +15,6 @@ Another remote commit was made that i want to fetch to my local repository and p
 **I've added some text to this line now from the branch  `conflicting-instructions'**
 
 this is a change i made today
+
+
+python is difficult for me i will learn it
